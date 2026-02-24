@@ -6,6 +6,10 @@ This project demonstrates a **production-ready AWS VPC architecture** designed f
 The architecture spans **two Availability Zones** to eliminate single points of failure and ensure resilience.
 
 ---
+## Architecture Diagram
+<img width="611" height="481" alt="image" src="https://github.com/user-attachments/assets/714fef06-a59b-4509-ac5b-abb3be17c484" />
+
+---
 
 ## Architecture Summary
 - VPC deployed across **two Availability Zones**
